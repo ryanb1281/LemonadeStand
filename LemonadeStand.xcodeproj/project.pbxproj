@@ -407,6 +407,7 @@
 				94BC46D919FF43C600BB6A2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94BC46DA19FF43C600BB6A2A /* Build configuration list for PBXNativeTarget "LemonadeStandTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				94BC46DC19FF43C600BB6A2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
